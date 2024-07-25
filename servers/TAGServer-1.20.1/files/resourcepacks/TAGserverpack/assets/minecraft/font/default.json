@@ -1,0 +1,985 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"note": "Many thanks to AmberW#4615",
+			"file": "minecraft:negative_spaces.ttf",
+			"shift": [0.0, 0.0],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/menu.png",
+			"chars": [
+				"ㄾ"
+			],
+			"ascent": 91,
+			"height": 256
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/desert.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/extremehills.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/flower.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/forest.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/grass.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/hell.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/ocean.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/savana.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/snowy.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/swamp.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "biome/theend.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 9,
+			"height": 16
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/cash.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 8,
+			"height": 10
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/chest.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/men.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/mileage.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 8,
+			"height": 10
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/money.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 8,
+			"height": 10
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/moon.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/pokeball.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/shiny.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/sun.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/time.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/woman.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/scoreboardz.png",
+			"chars": [
+				"" 
+			],
+			"ascent": 64,
+			"height": 64
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_attack_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_attack.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_hp.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_hp_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_defense.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_defense_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_spattack.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_spattack_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_spdefense.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_spdefense_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_speed.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		 
+		{
+			"type": "bitmap",
+			"file": "ivs/ivs_speed_icon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},		
+		{
+			"type": "bitmap",
+			"file": "healing/healingleafeon.png",
+			"chars": [
+				""
+			],
+			"ascent": 60,
+			"height": 128
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/moneypocket.png",
+			"chars": [
+				""
+			],
+			"ascent": 8,
+			"height": 70
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/0-9.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/10-19.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/20-29.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/30-39.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/40-49.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/50-59.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/60-69.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/70-79.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/80-89.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/90-99.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/100.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "fever/fever.png",
+			"chars": [
+				""
+			],
+			"ascent": 30,
+			"height": 50
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/buy.png",
+			"chars": [
+				""
+			],
+			"ascent": 34,
+			"height": 256
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/sell.png",
+			"chars": [
+				""
+			],
+			"ascent": 34,
+			"height": 256
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s0.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s1.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s2.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s3.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s4.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s5.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s6.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s7.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s8.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/s9.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/collon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/shopguide.png",
+			"chars": [
+				""
+			],
+			"ascent": -22,
+			"height": 64
+		},
+		{
+			"type": "bitmap",
+			"file": "number/0.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/1.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/2.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/3.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/4.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/5.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/6.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/7.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/8.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/9.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/collons.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 7
+		},
+		{
+			"type": "bitmap",
+			"file": "number/blackbackground.png",
+			"chars": [
+				""
+			],
+			"ascent": 11,
+			"height": 14
+		},
+		{
+			"type": "bitmap",
+			"file": "number/blackbackground.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 28
+		},
+		{
+			"type": "bitmap",
+			"file": "number/blackbackground2.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 14
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l0.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l1.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l2.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l3.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l4.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l5.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l6.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l7.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l8.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l9.png",
+			"chars": [
+				""
+			],
+			"ascent": 22,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l0.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l1.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l2.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l3.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l4.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l5.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l6.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l7.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l8.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "number/l9.png",
+			"chars": [
+				""
+			],
+			"ascent": 27,
+			"height": 41
+		},
+		{
+			"type": "bitmap",
+			"file": "menu/info.png",
+			"chars": [
+				""
+			],
+			"ascent": 93,
+			"height": 256
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/message.png",
+			"chars": [
+				""
+			],
+			"ascent": 18,
+			"height": 32
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/npc.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/shop.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "icon/tp.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/cummonicon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/rareicon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/epicicon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/uniqueicon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		},
+		{
+			"type": "bitmap",
+			"file": "ivs/legendaryicon.png",
+			"chars": [
+				""
+			],
+			"ascent": 7,
+			"height": 8
+		}
+	]
+}
+

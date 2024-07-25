@@ -1,0 +1,5 @@
+{
+  "providers": [
+    {"type": "bitmap", "file": "damage_skin/horror.png", "ascent": 1, "height": 16, "chars": ["1234567890"]}
+  ]
+}
