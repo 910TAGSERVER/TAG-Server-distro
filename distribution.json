@@ -1,0 +1,311 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "TAGServer-1.20.1",
+      "name": "TAGServer (Minecraft 1.20.1)",
+      "description": "TAGServer Running Minecraft 1.20.1 (Fabric v0.15.11)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "175.215.61.208:25565",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.15.11",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1327691,
+            "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.15.11",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2849,
+                "MD5": "d9b0e8725b594297a28891324cb7cfac",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/versions/1.20.1-fabric-0.15.11/1.20.1-fabric-0.15.11.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.6",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 123598,
+                "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.6",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34041,
+                "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.6",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72194,
+                "MD5": "9e317c75534bd1da8c00a67c618ab288",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.6",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51935,
+                "MD5": "6062608f1a98afe1e853d01fa1221a9e",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.6",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91131,
+                "MD5": "bd3bc1c176a787373e9a031073c9574b",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.13.3+mixin.0.8.5",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1458875,
+                "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:badoptimizations:2.1.0@jar",
+          "name": "BadOptimizations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 425066,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/BadOptimizations-2.1.0.jar",
+            "MD5": "5573ab5b235b4b1609fb36e30d535917"
+          }
+        },
+        {
+          "id": "com.ishland:c2me:0.2.0+alpha.11.5@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1301166,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar",
+            "MD5": "371f6ddf7ab12a1b83c5cf4e9816626d"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.118@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1159192,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
+          }
+        },
+        {
+          "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
+          "name": "Enhanced Block Entities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 490690,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.2-mc1.20.1@jar",
+          "name": "EntityCulling-Fabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 59348,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/entityculling-fabric-1.6.2-mc1.20.1.jar",
+            "MD5": "29b1642d4e958fd88822e55410f70dfd"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.0+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2105690,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/fabric-api-0.92.0+1.20.1.jar",
+            "MD5": "8e5c0f1758e2020338312a223c989c01"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "kr.cosine.simplef3:hqsimplef3:1.0.3@jar",
+          "name": "HQSimpleF3",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 81113,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/HQSimpleF3-1.0.0.jar",
+            "MD5": "0847a2a80dfd5452c40c8631a001d8eb"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.2.11+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 222646,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar",
+            "MD5": "922650e22732801762d1de57bde56393"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.30+mc1.20.4@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 104805,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
+            "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.0+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2668790,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
+            "MD5": "4fffc15dba4b021e626beea0ec00099b"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.2@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 645865,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "MD5": "026ca4110d57f16f701b400ad5d2ca26"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.15.0+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 602680,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/modernfix-fabric-5.15.0+mc1.20.1.jar",
+            "MD5": "f5be8d7112d6baa4815436662018d25b"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.20.4-0.22.1@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 269457,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/moreculling-1.20.4-0.22.1.jar",
+            "MD5": "7105c0ef569dd1c37d1b36b044351bea"
+          }
+        },
+        {
+          "id": "io.github.steveplays28:noisium:1.0.2+mc1.20.x@jar",
+          "name": "Noisium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 51321,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/noisium-1.0.2+mc1.20.x.jar",
+            "MD5": "7d4a11a9a2603797a66847275021c875"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 942134,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
+            "MD5": "68e366d87fa5c614d64ce031ff548e30"
+          }
+        },
+        {
+          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
+          "name": "ThreadTweak",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 144848,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          }
+        },
+        {
+          "id": "com.ishland:vmp:0.2.0+beta.7.102@jar",
+          "name": "Very Many Players",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 487043,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+            "MD5": "00831c52f753614a2f33bb288235ace1"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.19@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8064361,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
+            "MD5": "8e3db9e113b55555d2c0d237906c0edf"
+          }
+        }
+      ]
+    }
+  ]
+}
