@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1327691,
             "MD5": "b49fcf1bafc14bcda2472a0f060ebe41",
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/net/fabricmc/fabric-loader/0.15.11/fabric-loader-0.15.11.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2849,
                 "MD5": "d9b0e8725b594297a28891324cb7cfac",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/versions/1.20.1-fabric-0.15.11/1.20.1-fabric-0.15.11.json"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/versions/1.20.1-fabric-0.15.11/1.20.1-fabric-0.15.11.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 123598,
                 "MD5": "6f8bccf756f170d4185bb24c8c2d2020",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/org/ow2/asm/asm/9.6/asm-9.6.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 34041,
                 "MD5": "31c84ef7cc893fb278952ae2d6a2674f",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 72194,
                 "MD5": "9e317c75534bd1da8c00a67c618ab288",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51935,
                 "MD5": "6062608f1a98afe1e853d01fa1221a9e",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 91131,
                 "MD5": "bd3bc1c176a787373e9a031073c9574b",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1458875,
                 "MD5": "9dcf01250f72212bf97f0fef55ba5acd",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 425066,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/BadOptimizations-2.1.0.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/BadOptimizations-2.1.0.jar",
             "MD5": "5573ab5b235b4b1609fb36e30d535917"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1301166,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.5.jar",
             "MD5": "371f6ddf7ab12a1b83c5cf4e9816626d"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1159192,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/cloth-config-11.1.118-fabric.jar",
             "MD5": "eb13a834db10ee7e8c5e6a6d4b037fbd"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 490690,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
             "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 59348,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/entityculling-fabric-1.6.2-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/entityculling-fabric-1.6.2-mc1.20.1.jar",
             "MD5": "29b1642d4e958fd88822e55410f70dfd"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2105690,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/fabric-api-0.92.0+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/fabric-api-0.92.0+1.20.1.jar",
             "MD5": "8e5c0f1758e2020338312a223c989c01"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81113,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/HQSimpleF3-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/HQSimpleF3-1.0.0.jar",
             "MD5": "0847a2a80dfd5452c40c8631a001d8eb"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 222646,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar",
             "MD5": "922650e22732801762d1de57bde56393"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 104805,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/indium-1.0.30+mc1.20.4.jar",
             "MD5": "e0b3675f1e6e8f00da58d42ec1bd1be7"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2668790,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/iris-1.7.0+mc1.20.1.jar",
             "MD5": "4fffc15dba4b021e626beea0ec00099b"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 645865,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.2.jar",
             "MD5": "026ca4110d57f16f701b400ad5d2ca26"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 602680,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/modernfix-fabric-5.15.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/modernfix-fabric-5.15.0+mc1.20.1.jar",
             "MD5": "f5be8d7112d6baa4815436662018d25b"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 269457,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/moreculling-1.20.4-0.22.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/moreculling-1.20.4-0.22.1.jar",
             "MD5": "7105c0ef569dd1c37d1b36b044351bea"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 51321,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/noisium-1.0.2+mc1.20.x.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/noisium-1.0.2+mc1.20.x.jar",
             "MD5": "7d4a11a9a2603797a66847275021c875"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 942134,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/sodium-fabric-0.5.8+mc1.20.1.jar",
             "MD5": "68e366d87fa5c614d64ce031ff548e30"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 144848,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
             "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 487043,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
             "MD5": "00831c52f753614a2f33bb288235ace1"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8064361,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.19.jar",
             "MD5": "8e3db9e113b55555d2c0d237906c0edf"
           }
         },
@@ -311,7 +311,7 @@
           "type": "File",
           "artifact": {
             "size": 62,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/files/options.txt",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/files/options.txt",
             "MD5": "7b9bf18357b8f8af31d0c2ade1dbb017",
             "path": "options.txt"
           }
@@ -322,7 +322,7 @@
           "type": "File",
           "artifact": {
             "size": 13,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/files/optionsshaders.txt",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/files/optionsshaders.txt",
             "MD5": "416267e5e5e3465db1c9cabe830ddf28",
             "path": "optionsshaders.txt"
           }
@@ -333,7 +333,7 @@
           "type": "File",
           "artifact": {
             "size": 5424655,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/files/resourcepacks/TAGserverpack.zip",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/files/resourcepacks/TAGserverpack.zip",
             "MD5": "f33326a96b96c297a2240bfb74dd567f",
             "path": "resourcepacks/TAGserverpack.zip"
           }
@@ -344,7 +344,7 @@
           "type": "File",
           "artifact": {
             "size": 1669167,
-            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/servers/TAGServer-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/files/shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip",
             "MD5": "fb757db17e378d3174611d4d0698280d",
             "path": "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
           }
