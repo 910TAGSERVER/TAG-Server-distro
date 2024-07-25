@@ -1,2 +1,0 @@
-resourcePacks:["vanilla","fabric","TAGserverpack"]
-lang:ko_kr
