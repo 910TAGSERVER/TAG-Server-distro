@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.10.0@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7208951,
+            "url": "https://raw.githubusercontent.com/910TAGSERVER/TAG-Server-distro/main/servers/TAGServer-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.0-fabric.jar",
+            "MD5": "d89cc9557c1d27d94e9fb46907330f71"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.6.2-mc1.20.1@jar",
           "name": "EntityCulling-Fabric",
           "type": "FabricMod",
